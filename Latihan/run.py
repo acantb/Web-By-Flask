@@ -5,8 +5,8 @@ app=Flask(__name__)
 
 data_mahasiswa=[
     {
-        'nama: ', 'gamariah mandar',
-        'alamat :', 'kampis'
+        'nama: ', 'acan jaikar',
+        'alamat :', 'sasa'
     }
 ]
 
